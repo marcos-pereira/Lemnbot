@@ -12,7 +12,6 @@
 8.  Click on file manager (the small white icon to the left of the world (browser) symbol at the bottom left of the screen)
 9.  The window will open at /home/alastair. Navigate to /home/alastair/opt/packages/pycharm/pycharm-community-2016.1.4/bin
 10. Double click on pycharm.sh. Choose the 'execute' option. The program will open with the file robot_test_json.py open in the main editor pane. A terminal will open in the pane at the bottom of the screen.
-    
 11. To run a program, click into the terminal pane, and press the 'up' key on the keyboard until the desired program is displayed in the command prompt. The three programs are listed below:
     1. Python robot_test_json.py - makes the robot move it's arm back and forth in an infinite loop
     2. Python robot_retract.py – moves the robot to it's open armed position
