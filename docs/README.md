@@ -1,3 +1,19 @@
+# Installation instructions
+1. Install pypot:
+```
+pip install pypot
+pip install pypot --upgrade --no-deps
+```
+2. Install poppy robot:
+```
+pip install poppy-ergo-jr
+pip install poppy-ergo-jr --upgrade --no-deps
+```
+3. Upgrade numpy:
+```
+pip install --upgrade numpy
+```
+
 # Violin instructions
 
 1. Position the robot & chair where desired, attach the 3d printed head, making sure the notch in the attachment is aligned
